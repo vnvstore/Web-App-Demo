@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+1. First, run the development server:
 
 ```bash
 npm install
@@ -11,7 +11,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Create the production build for our application.:
+2. Create the production build for our application:
 
 ```bash
 npm run build
