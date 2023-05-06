@@ -24,7 +24,7 @@ npm run start
 
 ## View database record
 
-Use Prisma Studio's interface, take a look at the following tutorial [https://vercel.com/guides/nextjs-prisma-postgres](Prisma Tutorial)
+Use Prisma Studio's interface, take a look at the following tutorial [Prisma Tutorial](https://vercel.com/guides/nextjs-prisma-postgres)
 
 
 ## Learn More
